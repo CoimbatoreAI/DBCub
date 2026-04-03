@@ -1,0 +1,29 @@
+[
+    {
+        "id": "1",
+        "name": "Classic Oversized Tee - Black",
+        "price": 599,
+        "originalPrice": 999,
+        "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?q=80&w=2080",
+        "category": "Men",
+        "subcategory": "T-shirts",
+        "subSubcategory": "Oversized",
+        "sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "badge": "Sale",
+        "colors": [
+            "Black",
+            "White",
+            "Grey"
+        ],
+        "fabric": "Cotton",
+        "sleeveType": "Half Sleeve",
+        "stock": 15,
+        "fit": "Oversized"
+    }
+]

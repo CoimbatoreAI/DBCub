@@ -1,0 +1,28 @@
+[
+    {
+        "id": "1",
+        "customer": "John Doe",
+        "total": 1299,
+        "status": "Delivered",
+        "date": "2024-03-01",
+        "items": 2,
+        "trackingId": "DBC-001"
+    },
+    {
+        "id": "2",
+        "customer": "Jane Smith",
+        "total": 899,
+        "status": "Shipped",
+        "date": "2024-03-02",
+        "items": 1,
+        "trackingId": "DBC-002"
+    },
+    {
+        "id": "3",
+        "customer": "Alice Johnson",
+        "total": 2499,
+        "status": "Processing",
+        "date": "2024-03-03",
+        "items": 3
+    }
+]
